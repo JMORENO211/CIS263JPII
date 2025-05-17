@@ -1,0 +1,4 @@
+I honestly had to research newer IDEs and have a better understanding on what is an industry standard
+and it seems one of the industry standards is Intellij, I did hear about VS code, but I was looking more on
+the Java side of IDEs. Funny though it was not until I looked it up that i realized I have seen and seem commonly
+in many learning videos. Guess I am the odd one out in using net beans. 
